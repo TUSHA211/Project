@@ -1,0 +1,21 @@
+
+.HomeContainer{
+    display: flex;
+    height: 100%;
+ }
+
+.LeftContainer{
+    width: 25%;
+    
+}
+
+.RightContainer{
+    width: 30%;
+    
+}
+
+.CenterContainer{
+    width: 45%;
+    border-left: 1px solid lightcyan;
+    border-right: 1px solid lightcyan;
+}

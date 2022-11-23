@@ -1,0 +1,25 @@
+[{
+    "header":"Trending in India",
+    "text":"Cricket",
+    "tweetCount":"50k Tweets"
+},
+{
+    "header":"Trending in India",
+    "text":"Election",
+    "tweetCount":"30k Tweets"
+},
+{
+    "header":"Trending in Business",
+    "text":"Bill gates",
+    "tweetCount":"40k Tweets"
+},
+{
+    "header":"Trending in Sports",
+    "text":"Virat kohli",
+    "tweetCount":"60k Tweets"
+},
+{
+    "header":"Trending in Business",
+    "text":"Ambani",
+    "tweetCount":"50k"
+}]
