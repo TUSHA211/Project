@@ -8,6 +8,9 @@ import {BrowserRouter,Routes,Route} from 'react-router-dom';
 import Profile from './Profile/Profile';
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap";
+import LoginOption from './components/LoginOption/LoginOption';
+import Signup from './components/Signup/Signup';
+
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -19,6 +22,8 @@ root.render(
     <Routes>
   <Route path='/' element={<Home/>}></Route>
    <Route path='/profile' element={<Profile/>}></Route>
+   <Route path='/loginoption' element={<LoginOption/>}></Route>
+   <Route path='/Signup' element={<Signup/>}></Route>
    </Routes>
    </BrowserRouter>
    </React.StrictMode>
