@@ -45,7 +45,7 @@ function Signup() {
     >
       <Form className="form">
         <div className="title">
-        <h3>Signup</h3>
+        <h3 class="signup">Signup</h3>
           <label htmlFor="firstName">First Name:</label>
           <Field name="firstName" type="text" />
         </div>
